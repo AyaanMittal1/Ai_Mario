@@ -1,0 +1,39 @@
+#Instruct{
+    float: right;
+    margin-top: 3px;
+}
+.header{
+    margin-top: 0px;
+    padding: 10px;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.mario_pic{
+    width: 100%;
+    margin-top: -10px;
+}
+.start{
+    font-size: 20px;
+}
+.Instructions{
+    width: 45%;
+    height: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+.footer{
+    background-color: navy;
+    color: white;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
